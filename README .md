@@ -45,8 +45,8 @@ To demonstrate:
 
 ### 📸 Screenshots
 
-![homepage view]("images/homepage.png")
-![Player Card Details]("images/BESTXI-SHOW.png")
+![homepage view](images/homepage.png)
+![Player Card Details](images/BESTXI-SHOW.png)
 
 ---
 
