@@ -45,8 +45,8 @@ To demonstrate:
 
 ### 📸 Screenshots
 
-![Football XI Dashboard](."homepage.png")
-![Player Card Details](."BESTXI-SHOW.png")
+![Football XI Dashboard]("images/homepage.png")
+![Player Card Details]("images/BESTXI-SHOW.png")
 
 ---
 

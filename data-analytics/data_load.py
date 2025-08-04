@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Example: Load CSV file
-df = pd.read_csv("fifa21_male.csv", low_memory=False)
+df = pd.read_csv("data/fifa21_male.csv", low_memory=False)
 from sqlalchemy import create_engine
 
 # Replace with your credentials
